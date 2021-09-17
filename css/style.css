@@ -314,3 +314,11 @@ a {
      line-height: 25px;
      color: #555; 
 }
+.footer {
+     width: 100%;
+     float: right;
+     padding: 20px 0;
+     color: #4c7d89;
+     background-color:#182d37 ;
+     text-align: center;
+}
